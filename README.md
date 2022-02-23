@@ -3,7 +3,7 @@
 <h3 align="center">Interested in anything related to AI</h3>
 
 
-![](https://komarev.com/ghpvc/?username=Gladiator07)
+![](https://komarev.com/ghpvc/?username=OmkarGowda990)
 
 <h5 align="center"><i>(Feel free to contact me via any social-media platforms below)</i></h5>
 
