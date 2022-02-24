@@ -97,7 +97,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 #### Operating System
-<code><img height="30" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
 
@@ -110,5 +109,5 @@
 ---
 <!-- [![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gladiator07&theme=react-dark&hide_border=true)](https://github.com/Gladiator07/) -->
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Gladiator07&theme=tokyonight&show_icons=true) 
+![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=OmkarGowda990&theme=tokyonight&show_icons=true) 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats) -->
