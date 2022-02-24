@@ -34,30 +34,24 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.696005995.4114/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
 
 #### Libraries/Frameworks
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png"></code>
-<code><img height="30" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
-<code><img height="30" src="https://huggingface.co/favicon.ico"></code>
-<code><img height="30" src=""></code>
 <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-<code><img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 <code><img height="30" src="https://docs.streamlit.io/en/0.79.0/_static/favicon.png"></code>
+
+#### IDE
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 #### Cloud Platforms
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
 
 #### Others
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+
 <code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
@@ -68,11 +62,6 @@
 <code><img height="30" src="https://github.com/OmkarGowda990/OmkarGowda/blob/main/images/33131755.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
 
-#### Hardware
-<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/47798062?s=200&v=4"></code>
-<code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
 ---
 [![Omkar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=OmkarGowda990&theme=react-dark&hide_border=true)](https://github.com/OmkarGowda990/)
