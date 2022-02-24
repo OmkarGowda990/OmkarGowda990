@@ -12,8 +12,8 @@
    👨🏻‍💻 &nbsp;About Me
 
 - 🎓 I'm a Data Science and Artificial Intelligence Engineering sophomore at IIIT Dharwad, Karnataka.
-- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
-- 🌱 I’m currently learning Deep Metric Learning, GNNs, MLOPs and DSA
+- 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP, Reinforcement Learning and WebD
+- 🌱 I’m currently learning Deep learning and MERN Stack Development
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
 
@@ -37,7 +37,6 @@
 
 #### Libraries/Frameworks
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
 <code><img height="30" src="https://docs.streamlit.io/en/0.79.0/_static/favicon.png"></code>
