@@ -5,21 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=OmkarGowda990)
 
-<h5 align="center"><i>(Feel free to contact me via any social-media platforms below)</i></h5>
-
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle) -->
-<!-- [![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/-omkargowda-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:omkarkgowda@gmail.com)](mailto:omkarkgowda@gmail.com)
-
-
-<!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)
-<a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> -->
 
 ---
 
@@ -69,11 +54,7 @@
 
 #### Cloud Platforms
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-<code><img height="30" src="https://www.finsmes.com/wp-content/uploads/2018/10/paperspace.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873107.png"></code>
 
 #### Others
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
@@ -95,6 +76,10 @@
 
 ---
 [![Omkar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=OmkarGowda990&theme=react-dark&hide_border=true)](https://github.com/OmkarGowda990/)
+[![GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OmkarGowda990&layout=compact&langs_count=8&theme=blue-green)](https://git.io/streak-stats)
+
 
 ![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=OmkarGowda990&theme=tokyonight&show_icons=true) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmkarGowda990&theme=tokyonight)](https://git.io/streak-stats)
+
+  
