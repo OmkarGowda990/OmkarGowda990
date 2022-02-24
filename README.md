@@ -8,12 +8,10 @@
 <h5 align="center"><i>(Feel free to contact me via any social-media platforms below)</i></h5>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle)
-[![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@AtharvaIngle7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AtharvaIngle7)](https://twitter.com/AtharvaIngle7)
-<!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/-atharvaaingle-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atharvaaingle@gmail.com)](mailto:atharvaaingle@gmail.com)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-ingle-564430187/)](https://www.linkedin.com/in/atharva-ingle-564430187/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle) -->
+<!-- [![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/) -->
+[![Gmail Badge](https://img.shields.io/badge/-omkargowda-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:omkarkgowda@gmail.com)](mailto:omkarkgowda@gmail.com)
 
 
 <!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
@@ -27,29 +25,16 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<!-- <img align="right" alt="GIF" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif" /> -->
-
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
 - 🌱 I’m currently learning Deep Metric Learning, GNNs, MLOPs and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with currently nothing 😁
-- ⚡ Fun fact: I am a Kaggle 4X Expert and highly active [there](https://www.kaggle.com/atharvaingle)
 
 ### I am currently working on:
-- [Happywhale - Whale and Dolphin Identification (Kaggle)](https://www.kaggle.com/c/happy-whale-and-dolphin)
-- [NBME - Score Clinical Patient Notes (Kaggle)](https://www.kaggle.com/c/nbme-score-clinical-patient-notes)
-
-- ⚡**AUTO-TAB**⚡ - an end-to-end automated Machine Learning Library to tackle any Tabular Dataset
+- [Optifit Gauge - Securing EHR using Blockchain](https://github.com/blockchain-pandavas)
 
 ### Recent Projects/Achievements 🎉🎉
-- [Sartorius - Cell Instance Segmentation (Kaggle)](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) - 117/1505 (bronze medal) - [code](https://github.com/Gladiator07/Sartorius-Neuronal-Cell-Segmentation-Kaggle)
-- [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge/instructions/) - 12th place finish among 3200+ teams across India - [solution code](https://github.com/atif-hassan/Competition-code/tree/master/Hackerearth/Amazon%20ML%20Challenge)
-- [Bristol-Myers Squibb – Molecular Translation (Kaggle)](https://www.kaggle.com/c/bms-molecular-translation) - 50th/874 (silver medal) - [solution approach + code](https://github.com/Gladiator07/Bristol-Myers-Squibb-Translation-Kaggle)
-- [Extractive and Abstractive Text Summarizer using Transformers](https://github.com/Gladiator07/Text-Summarizer)
-- [Text to Image Synthesis using AttnGAN](https://github.com/Gladiator07/Text-to-image-synthesis-with-AttnGAN)
-- [GPU and TPU comparison for computer vision](https://github.com/Gladiator07/GPU-vs-TPU)
-- [Harvestify](https://github.com/Gladiator07/Harvestify)
-- [JARVIS](https://github.com/Gladiator07/JARVIS)
+- Coming soon.....
 ---
 
 ### Tools and Technologies:
@@ -107,7 +92,7 @@
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
 ---
-<!-- [![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gladiator07&theme=react-dark&hide_border=true)](https://github.com/Gladiator07/) -->
+[![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=OmkarGowda990&theme=react-dark&hide_border=true)](https://github.com/OmkarGowda990/)
 
 ![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=OmkarGowda990&theme=tokyonight&show_icons=true) 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gladiator07&theme=tokyonight)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmkarGowda990&theme=tokyonight)](https://git.io/streak-stats)
