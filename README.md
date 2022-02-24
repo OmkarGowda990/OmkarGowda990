@@ -24,7 +24,9 @@
 ---
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+   👨🏻‍💻 &nbsp;About Me
 
+- 🎓 I'm a Data Science and Artificial Intelligence Engineering sophomore at IIIT Dharwad, Karnataka.
 - 🔭 I'm into Machine Learning, Deep Learning, Computer vision, NLP and Reinforcement Learning
 - 🌱 I’m currently learning Deep Metric Learning, GNNs, MLOPs and DSA
 - 👯 I’m looking to collaborate on Kaggle Competitions
@@ -82,7 +84,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 #### Operating System
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
+<code><img height="30" src="https://github.com/OmkarGowda990/OmkarGowda/blob/main/images/33131755.png"></code>
 <code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
 
 #### Hardware
@@ -92,7 +94,7 @@
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
 ---
-[![Atharva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=OmkarGowda990&theme=react-dark&hide_border=true)](https://github.com/OmkarGowda990/)
+[![Omkar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=OmkarGowda990&theme=react-dark&hide_border=true)](https://github.com/OmkarGowda990/)
 
 ![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=OmkarGowda990&theme=tokyonight&show_icons=true) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmkarGowda990&theme=tokyonight)](https://git.io/streak-stats)
