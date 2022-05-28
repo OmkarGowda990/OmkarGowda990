@@ -61,10 +61,15 @@
 ---
 [![Omkar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=OmkarGowda990&theme=react-dark&hide_border=true)](https://github.com/OmkarGowda990/)
 
---
+<h2 align="center">Github Trophies</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=OmkarGowda990&theme=darkhub">
+</p>
+</br>
 
 ![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=OmkarGowda990&theme=tokyonight&show_icons=true)
 [![GitHub Streak](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OmkarGowda990&layout=compact&langs_count=8&theme=blue-green)](https://git.io/streak-stats)
+
 
  
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmkarGowda990&theme=tokyonight)](https://git.io/streak-stats) -->
