@@ -76,7 +76,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/omkar-gowda-947548211/"><img src="https://img.shields.io/badge/-Omkar%20Gowda-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:omkarkgowda@gmail.com"><img src="https://img.shields.io/badge/-omkarkgowda@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+ <a href="https://www.kaggle.com/omkargowda"><img src="https://img.shields.io/badge/-Omkar%20Gowda-0077B5?style=flat&logo=Kaggle&logoColor=white"/>
 </p>
+
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmkarGowda990&theme=tokyonight)](https://git.io/streak-stats) -->
 
