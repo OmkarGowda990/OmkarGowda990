@@ -61,12 +61,6 @@
 ---
 [![Omkar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=OmkarGowda990&theme=react-dark&hide_border=true)](https://github.com/OmkarGowda990/)
 
-<h2 align="center">Github Trophies</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=OmkarGowda990&theme=darkhub">
-</p>
-</br>
-
 <h2 align="center">Github Stats</h2>
 <p align="center">
 <a href="https://github.com/OmkarGowda990">
