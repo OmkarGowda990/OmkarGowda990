@@ -20,9 +20,7 @@
 ### I am currently working on:
 - [Optifit Gauge - Securing EHR using Blockchain](https://github.com/blockchain-pandavas)
 
-### Recent Projects/Achievements 🎉🎉
-- Coming soon.....
----
+
 
 ### Tools and Technologies:
 
